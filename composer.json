@@ -1,0 +1,11 @@
+{
+	"name": "packetery/coding-standard",
+	"license": "MIT",
+	"require": {
+		"slevomat/coding-standard": "^1.0",
+		"squizlabs/php_codesniffer": "^2.5"
+	},
+	"autoload": {
+		"classmap": ["PacketeryCodingStandard/"]
+	}
+}
